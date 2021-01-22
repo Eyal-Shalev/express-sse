@@ -1,6 +1,6 @@
 {
   "name": "@eyalsh/express-sse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Express Server Sent Events Middleware (using TypeScript)",
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",
@@ -14,7 +14,7 @@
   "files": ["lib/"],
   "repository": {
     "type": "git",
-    "url": "github.com/Eyal-Shalev/express-sse"
+    "url": "https://github.com/Eyal-Shalev/express-sse"
   },
   "author": "Eyal Shalev <eyalsh@gmail.com>",
   "license": "ISC",
